@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<startup>
+  <cmdline>gameHacked.exe -script dataS/scripts/main.lua -name FarmingSimulator2009</cmdline>
+  
+  <l10n>
+	<local>
+		<en>
+	        <Title>Product Key</Title>
+	        <Input>Please enter your Product Keysssss</Input>
+	        <Next>Next &gt;</Next>
+	        <Cancel>Cancel</Cancel>
+	        <Wait>Please wait while activating your product...</Wait>
+	        <Success>Your Product Key is valid.</Success>
+	        <Fail1>Failed. No access to profile.</Fail1>
+		</en>  
+		<de>
+	        <Title>Produktschlüssel</Title>
+	        <Input>Bitte geben Sie ihren Produktschlüssel ein</Input>
+	        <Next>Weiter &gt;</Next>
+	        <Cancel>Abbrechen</Cancel>
+	        <Wait>Produkt wird aktiviert. Bitte warten...</Wait>
+	        <Success>Produktschlüssel korrekt.</Success>
+	        <Fail1>Fehlgeschlagen. Kein Zugriff aufs Profil.</Fail1>
+		</de>      
+		<jp>
+	        <Title>プロダクトキー</Title>
+	        <Input>プロダクトキーを入力して下さい</Input>
+	        <Next>次へ</Next>
+	        <Cancel>キャンセル</Cancel>
+	        <Wait>しばらくお待ち下さい…</Wait>
+	        <Success>プロダクトキーは有効です。</Success>
+	        <Fail1>プロフィール情報へのアクセスに失敗しました。</Fail1>
+		</jp>
+	</local>
+	<online>
+		<en>
+		  <Title>Online Product Activation</Title>
+		  <Input>Please enter your Product Activation Keysssss</Input>
+		  <Next>Activate &gt;</Next>
+		  <Cancel>Cancel</Cancel>
+		  <Wait>Please wait while activating your product...</Wait>
+		  <Success>Product Activation successful.</Success>
+		  <Fail1>Failed. No access to profile.</Fail1>
+		  <Fail2>Activation server connection failure. Please try later.</Fail2>
+		  <Fail3>Product Activation failed. Activation Key invalid.</Fail3>
+		  <Fail4>Product Activation failed. Online Activation limit exceeded.</Fail4>
+		</en>  
+		<de>
+		  <Title>Online Produktaktivierung</Title>
+		  <Input>Bitte geben Sie ihren Aktivierungsschlüssel ein</Input>
+		  <Next>Aktivieren &gt;</Next>
+		  <Cancel>Abbrechen</Cancel>
+		  <Wait>Produkt wird aktiviert. Bitte warten...</Wait>
+		  <Success>Produktaktivierung erfolgreich.</Success>
+		  <Fail1>Fehlgeschlagen. Kein Zugriff aufs Profil.</Fail1>
+		  <Fail2>Verbindung zum Aktivierungsserver fehlgeschlagen. Bitte versuchen Sie es später noch einmal.</Fail2>
+		  <Fail3>Produktaktivierung fehlgeschlagen. Aktivierungsschlüssel falsch.</Fail3>
+		  <Fail4>Produktaktivierung fehlgeschlagen. Maximale Anzahl Aktivierungen überschritten.</Fail4>		  
+		  
+		  <Fail1></Fail1>
+		</de>      
+		<jp>
+		  <Title>Online Product Activation</Title>
+		  <Input>Please enter your Product Activation Keysssss</Input>
+		  <Next>Activate &gt;</Next>
+		  <Cancel>Cancel</Cancel>
+		  <Wait>Please wait while activating your product...</Wait>
+		  <Success>Product Activation successful.</Success>
+		  <Fail1>Failed. No access to profile.</Fail1>
+		  <Fail2>Activation server connection failure. Please try later.</Fail2>
+		  <Fail3>Product Activation failed. Activation Key invalid.</Fail3>
+		  <Fail4>Product Activation failed. Online Activation limit exceeded.</Fail4>
+		</jp>	
+	</online>
+  </l10n>
+
+</startup>
