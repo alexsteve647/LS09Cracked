@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<performanceReference>
+    <gpus>
+        <vendor name="Intel">
+            <gpu id="Intel" profile="low"/>
+        </vendor>
+        <vendor name="S3">
+            <gpu id="S3" profile="low"/>
+        </vendor>
+        <vendor name="ATI">
+            <gpu id="Radeon 9500" profile="low"/>
+            <gpu id="Radeon 9550" profile="low"/>
+            <gpu id="Radeon 9600" profile="low"/>
+            <gpu id="Radeon 9700" profile="low"/>
+            <gpu id="Radeon 9800" profile="low"/>
+            <gpu id="Radeon X300" profile="low"/>
+            <gpu id="Radeon X550" profile="low"/>
+            <gpu id="Radeon X600" profile="low"/>
+            <gpu id="Radeon X700" profile="low"/>
+            <gpu id="Radeon X800" profile="low"/>
+            <gpu id="Radeon X850" profile="low"/>
+            <gpu id="Radeon Xpress" profile="low"/>
+            <gpu id="Radeon X1050" profile="low"/>
+            <gpu id="Radeon X1200" profile="low"/>
+            <gpu id="Radeon X1250" profile="low"/>
+            <gpu id="Radeon X1300" profile="low"/>
+            <gpu id="Radeon X1550" profile="low"/>
+            <gpu id="Radeon X1600" profile="medium"/>
+            <gpu id="Radeon X1650" profile="medium"/>
+            <gpu id="Radeon X1800" profile="medium"/>
+            <gpu id="Radeon X1900" profile="medium"/>
+            <gpu id="Radeon X1950" profile="high"/>
+            <gpu id="Radeon HD 2400" profile="low"/>
+            <gpu id="Radeon HD 2600" profile="low"/>
+            <gpu id="Radeon HD 2900" profile="high"/>
+            <gpu id="Radeon HD 3450" profile="low"/>
+            <gpu id="Radeon HD 3470" profile="low"/>
+            <gpu id="Radeon HD 3650" profile="medium"/>
+            <gpu id="Radeon HD 3670" profile="medium"/>
+            <gpu id="Radeon HD 3850" profile="high"/>
+            <gpu id="Radeon HD 3870" profile="high"/>
+            <gpu id="Radeon HD 4350" profile="low"/>
+            <gpu id="Radeon HD 4550" profile="medium"/>
+            <gpu id="Radeon HD 4650" profile="medium"/>
+            <gpu id="Radeon HD 4670" profile="medium"/>
+            <gpu id="Radeon HD 4830" profile="high"/>
+            <gpu id="Radeon HD 4850" profile="high"/>
+            <gpu id="Radeon HD 4870" profile="high"/>
+            <gpu id="Radeon HD 4850 X2" profile="high"/>
+            <gpu id="Radeon HD 4870 X2" profile="very high"/>
+            <gpu id="Mobility Radeon 9600" profile="low"/>
+            <gpu id="Mobility Radeon 9700" profile="low"/>
+            <gpu id="Mobility Radeon 9800" profile="low"/>
+            <gpu id="Mobility Radeon X300" profile="low"/>
+            <gpu id="Mobility Radeon X600" profile="low"/>
+            <gpu id="Mobility Radeon X700" profile="low"/>
+            <gpu id="Mobility Radeon X800" profile="low"/>
+            <gpu id="Mobility Radeon X1300" profile="low"/>
+            <gpu id="Mobility Radeon X1400" profile="low"/>
+            <gpu id="Mobility Radeon X1600" profile="low"/>
+            <gpu id="Mobility Radeon X1800" profile="medium"/>
+            <gpu id="Mobility Radeon X1900" profile="medium"/>
+            <gpu id="Mobility Radeon X2300" profile="low"/>
+            <gpu id="Mobility Radeon HD 2300" profile="low"/>
+            <gpu id="Mobility Radeon X2500" profile="low"/>
+            <gpu id="Mobility Radeon HD 2400" profile="low"/>
+            <gpu id="Mobility Radeon HD 2600" profile="low"/>
+            <gpu id="Mobility Radeon HD 2700" profile="medium"/>
+            <gpu id="Mobility Radeon HD 3450" profile="low"/>
+            <gpu id="Mobility Radeon HD 3470" profile="low"/>
+            <gpu id="Mobility Radeon HD 3650" profile="medium"/>
+            <gpu id="Mobility Radeon HD 3850" profile="high"/>
+            <gpu id="Mobility Radeon HD 3850 X2" profile="high"/>
+            <gpu id="Mobility Radeon HD 3870" profile="high"/>
+            <gpu id="Mobility Radeon HD 3870 X2" profile="high"/>
+            <gpu id="Mobility Radeon HD 4850" profile="high"/>
+            <gpu id="Mobility Radeon HD 4870" profile="high"/>
+            <gpu id="Mobility Radeon HD 4850 X2" profile="high"/>
+            <gpu id="Mobility Radeon HD 4870 X2" profile="very high"/>
+        </vendor>
+        <vendor name="NVIDIA">
+            <gpu id="GeForce FX 5100" profile="low"/>
+            <gpu id="GeForce FX 5200" profile="low"/>
+            <gpu id="GeForce FX 5500" profile="low"/>
+            <gpu id="GeForce FX 5600" profile="low"/>
+            <gpu id="GeForce FX 5700" profile="low"/>
+            <gpu id="GeForce FX 5800" profile="low"/>
+            <gpu id="GeForce FX 5900" profile="low"/>
+            <gpu id="GeForce FX 5950" profile="low"/>
+            <gpu id="GeForce PCX 5300" profile="low"/>
+            <gpu id="GeForce PCX 5750" profile="low"/>
+            <gpu id="GeForce PCX 5900" profile="low"/>
+            <gpu id="GeForce FX Go" profile="low"/>
+            <gpu id="GeForce Go 6" profile="low"/>
+            <gpu id="GeForce Go 7" profile="medium"/>
+            <gpu id="GeForce 6100" profile="low"/>
+            <gpu id="GeForce 6150" profile="low"/>
+            <gpu id="GeForce 6200" profile="low"/>
+            <gpu id="GeForce 6250" profile="low"/>
+            <gpu id="GeForce 6500" profile="low"/>
+            <gpu id="GeForce 6600" profile="low"/>
+            <gpu id="GeForce 6610" profile="low"/>
+            <gpu id="GeForce 6700" profile="low"/>
+            <gpu id="GeForce 6800" profile="low"/>
+            <gpu id="GeForce 7000" profile="low"/>
+            <gpu id="GeForce 7025" profile="low"/>
+            <gpu id="GeForce 7050" profile="low"/>
+            <gpu id="GeForce 7100" profile="low"/>
+            <gpu id="GeForce 7150" profile="low"/>
+            <gpu id="GeForce 7200" profile="low"/>
+            <gpu id="GeForce 7300" profile="low"/>
+            <gpu id="GeForce 7350" profile="low"/>
+            <gpu id="GeForce 7500" profile="low"/>
+            <gpu id="GeForce 7600" profile="low"/>
+            <gpu id="GeForce 7650" profile="low"/>
+            <gpu id="GeForce 7800" profile="medium"/>
+            <gpu id="GeForce 7900" profile="medium"/>
+            <gpu id="GeForce 7950" profile="high"/>
+            <gpu id="GeForce 8300" profile="low"/>
+            <gpu id="GeForce 8400" profile="low"/>
+            <gpu id="GeForce 8500" profile="medium"/>
+            <gpu id="GeForce 8600" profile="medium"/>
+            <gpu id="GeForce 8700" profile="medium"/>
+            <gpu id="GeForce 8800" profile="high"/>
+            <gpu id="GeForce 9100" profile="low"/>
+            <gpu id="GeForce 9200" profile="low"/>
+            <gpu id="GeForce 9300" profile="low"/>
+            <gpu id="GeForce 9400" profile="medium"/>
+            <gpu id="GeForce 9500" profile="medium"/>
+            <gpu id="GeForce 9600" profile="high"/>
+            <gpu id="GeForce 9650" profile="high"/>
+            <gpu id="GeForce 9700" profile="high"/>
+            <gpu id="GeForce 9800" profile="high"/>
+            <gpu id="GeForce GTX 260" profile="high"/>
+            <gpu id="GeForce GTX 280" profile="very high"/>
+            <gpu id="GeForce GTX 285" profile="very high"/>
+            <gpu id="GeForce GTX 295" profile="very high"/>
+            <gpu id="GeForce GT 120" profile="medium"/>
+            <gpu id="GeForce GT 130" profile="high"/>
+            <gpu id="GeForce GTS 150" profile="high"/>
+        </vendor>
+    </gpus>
+</performanceReference>
