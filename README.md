@@ -1,5 +1,5 @@
 # LS09Cracked
-Patched version of Farming Simulator 2009 using x64dbg, to load custom lua scripts.
+Patched version of Farming Simulator 2009 `V4.12` using x64dbg, to load custom lua scripts.
 
 ## Usage:
 1. Create folder in the same path as gameHacked.exe and name it `scripts`.
